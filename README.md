@@ -11,7 +11,7 @@ This project was originally inspired by the BlockVote project.
 ## Technology Stack 🎨
 1. [BootStrap](https://getbootstrap.com/)
 2. [Truffle](https://www.trufflesuite.com/) is a development framework for Ethereum that simplifies the process of building and deploying smart contracts. It provides tools for testing, deployment, and interaction with the blockchain.
-3. Ganache is a local Ethereum blockchain emulator that allows developers to test their smart contracts and applications in a controlled and private environment. It's an essential tool for Ethereum development.
+3. [Ganache](https://www.trufflesuite.com/ganache) is a local Ethereum blockchain emulator that allows developers to test their smart contracts and applications in a controlled and private environment. It's an essential tool for Ethereum development.
 
 ## How to Use VOTE 🎉
 
